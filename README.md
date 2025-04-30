@@ -109,9 +109,5 @@ Here are some of the tools and technologies I work with:
 ---
 
 <div align="center">
-  <img src="https://github.com/C0dEbReAkEr-glitch/C0dEbReAkEr-glitch/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
   <h3>Remember: The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards 😉</h3>
 </div>
