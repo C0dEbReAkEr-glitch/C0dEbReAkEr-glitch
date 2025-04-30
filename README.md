@@ -1,7 +1,7 @@
 # 👨‍💻 C0dEbReAkEr-glitch
 
 [![GitHub followers](https://img.shields.io/github/followers/C0dEbReAkEr-glitch?style=social)](https://github.com/C0dEbReAkEr-glitch)
-[![Twitter Follow](https://img.shields.io/twitter/follow/C0dEbReAkEr?style=social)](https://x.com/3FOXshield1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/3FOXshield1?style=social)](https://x.com/3FOXshield1)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C647&center=true&vCenter=true&random=false&width=500&lines=Cyber+Security+Enthusiast;Security+Tool+Developer;Vulnerability+Researcher;Ethical+Hacker;CTF+Player" alt="Typing SVG" />
