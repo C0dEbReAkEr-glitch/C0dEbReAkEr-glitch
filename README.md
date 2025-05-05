@@ -75,6 +75,21 @@ Here are some of the tools and technologies I work with:
   </tr>
 </table>
 
+## 📊 Technical Reports
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="center">Instagram Session ID Capture - iOS Technical Guide</h3>
+      <div align="center">
+        <a href="https://github.com/C0dEbReAkEr-glitch/Instagram-Session-ID-Capture" target="_blank"><img src="https://img.shields.io/badge/REPORT-5856D6?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://github.com/C0dEbReAkEr-glitch/Instagram-Session-ID-Capture" target="_blank"><img src="https://img.shields.io/badge/Educational_Purpose-Only-blue"></a>
+        <p>A comprehensive technical guide detailing methodologies for capturing Instagram session IDs from the iOS application using Charles Proxy network traffic interception. This report covers the complete process from tool setup to extraction techniques, along with important ethical considerations.</p>
+        <p><strong>Key Topics:</strong> Network Traffic Analysis, iOS SSL Proxying, Authentication Token Extraction, Mobile App Security</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 TryHackMe Profile
 
