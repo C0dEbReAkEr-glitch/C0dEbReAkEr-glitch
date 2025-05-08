@@ -68,7 +68,7 @@ Here are some of the tools and technologies I work with:
     <td width="50%">
       <h3 align="center">Advanced Network Scanner</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/CODE-ffaa80?style=for-the-badge&logo=github&logoColor=black"></a>
+        <a href="https://github.com/C0dEbReAkEr-glitch/NetScan" target="_blank"><img src="https://img.shields.io/badge/CODE-ffaa80?style=for-the-badge&logo=github&logoColor=black"></a>
         <p>Network scanner with threat detection including host discovery, port scanning, service identification, vulnerability assessment, and behavior-based threat detection.</p>
       </div>
     </td>
