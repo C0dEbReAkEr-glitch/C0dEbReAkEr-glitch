@@ -26,6 +26,7 @@ Here are some of the tools and technologies I work with:
 ▶️ OSINT
 ▶️ Penetration Testing 
 ▶️ Network Security
+▶️ Malware Analysis
 ```
 
 ## 💻 Tech Stack
